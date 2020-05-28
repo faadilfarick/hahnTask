@@ -1,0 +1,11 @@
+E:\Apps\hahnTask\Service\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+E:\Apps\hahnTask\Service\Data\bin\Debug\netcoreapp3.1\Data.dll
+E:\Apps\hahnTask\Service\Data\bin\Debug\netcoreapp3.1\Data.pdb
+E:\Apps\hahnTask\Service\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+E:\Apps\hahnTask\Service\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+E:\Apps\hahnTask\Service\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+E:\Apps\hahnTask\Service\Data\obj\Debug\netcoreapp3.1\Data.dll
+E:\Apps\hahnTask\Service\Data\obj\Debug\netcoreapp3.1\Data.pdb
+E:\Apps\hahnTask\Service\Data\bin\Debug\netcoreapp3.1\Domain.dll
+E:\Apps\hahnTask\Service\Data\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\Apps\hahnTask\Service\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete

@@ -1,0 +1,13 @@
+E:\Apps\hahnTask\Service\LoggerService\bin\Debug\netcoreapp3.1\Data.dll
+E:\Apps\hahnTask\Service\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csprojAssemblyReference.cache
+E:\Apps\hahnTask\Service\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+E:\Apps\hahnTask\Service\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+E:\Apps\hahnTask\Service\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+E:\Apps\hahnTask\Service\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+E:\Apps\hahnTask\Service\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+E:\Apps\hahnTask\Service\LoggerService\bin\Debug\netcoreapp3.1\Data.pdb
+E:\Apps\hahnTask\Service\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
+E:\Apps\hahnTask\Service\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+E:\Apps\hahnTask\Service\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
+E:\Apps\hahnTask\Service\LoggerService\bin\Debug\netcoreapp3.1\Domain.dll
+E:\Apps\hahnTask\Service\LoggerService\bin\Debug\netcoreapp3.1\Domain.pdb

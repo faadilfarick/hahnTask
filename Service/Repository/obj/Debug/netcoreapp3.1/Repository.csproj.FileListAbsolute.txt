@@ -1,0 +1,13 @@
+E:\Apps\hahnTask\Service\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+E:\Apps\hahnTask\Service\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+E:\Apps\hahnTask\Service\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+E:\Apps\hahnTask\Service\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+E:\Apps\hahnTask\Service\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+E:\Apps\hahnTask\Service\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+E:\Apps\hahnTask\Service\Repository\bin\Debug\netcoreapp3.1\Data.dll
+E:\Apps\hahnTask\Service\Repository\bin\Debug\netcoreapp3.1\Domain.dll
+E:\Apps\hahnTask\Service\Repository\bin\Debug\netcoreapp3.1\Data.pdb
+E:\Apps\hahnTask\Service\Repository\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\Apps\hahnTask\Service\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+E:\Apps\hahnTask\Service\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+E:\Apps\hahnTask\Service\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
